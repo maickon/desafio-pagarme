@@ -1,0 +1,14 @@
+Um projeto onde cria uma transação utilizando o serviço da pagarme
+fazendo divisao de valores para duas pessoas e depois mostre na tela
+tanto os dados da transação quanto os dos valores a serem pagos para estas 
+pessoas.
+
+Pode ser uma aplicação sem interface
+pode ser linha de comando
+
+prazo uma semana
+deixar no git
+
+https://docs.pagar.me/
+
+https://docs.pagar.me/transactions/#realizando-uma-transacao-de-cartao-de-credito
